@@ -1,1 +1,1 @@
-*/5 * * * *	sh /lib/ffnw/configurator/configurator.sh;
+*/5 * * * *	sh /lib/tro/configurator/configurator.sh;
